@@ -5,7 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Autistic-Cookie/randomthings.git
 git push -u origin main
-
+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   <---
 linux user create commands:
 -->create user with home directory
 sudo useradd -m username
