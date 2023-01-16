@@ -1,0 +1,17 @@
+eho "# randomthings" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Autistic-Cookie/randomthings.git
+git push -u origin main
+
+linux user create commands:
+-->create user with home directory
+sudo useradd -m username
+-->make password for username
+sudo passwd username
+-->list all users
+getent passwd
+
+
