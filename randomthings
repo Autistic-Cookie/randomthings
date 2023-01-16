@@ -14,4 +14,4 @@ sudo passwd username
 -->list all users
 getent passwd
 
-
+-->
